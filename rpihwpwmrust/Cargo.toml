@@ -1,0 +1,10 @@
+[package]
+name = "xyrust"
+version = "0.1.0"
+authors = ["Alexey Porotnikov <alexey.porotnikov@gmail.com>"]
+
+[dependencies]
+clap = "~2.29.0"
+regex = "~0.2.3"
+chan-signal = "~0.3.1"
+chan = "~0.1.19"
